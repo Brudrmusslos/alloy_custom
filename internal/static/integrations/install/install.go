@@ -14,7 +14,7 @@ import (
 	_ "github.com/grafana/alloy/internal/static/integrations/catchpoint_exporter"    // register catchpoint_exporter
 	_ "github.com/grafana/alloy/internal/static/integrations/cloudwatch_exporter"    // register cloudwatch_exporter
 	_ "github.com/grafana/alloy/internal/static/integrations/consul_exporter"        // register consul_exporter
-	_ "github.com/grafana/alloy/internal/static/integrations/dnsmasq_exporter"       // register dnsmasq_exporter
+	_ "github.com/brudrmusslos/alloy_custom/internal/static/integrations/dnsmasq_exporter"       // register dnsmasq_exporter
 	_ "github.com/grafana/alloy/internal/static/integrations/elasticsearch_exporter" // register elasticsearch_exporter
 	_ "github.com/grafana/alloy/internal/static/integrations/gcp_exporter"           // register gcp_exporter
 	_ "github.com/grafana/alloy/internal/static/integrations/github_exporter"        // register github_exporter
