@@ -47,7 +47,7 @@ require (
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v0.0.4
 	github.com/google/cadvisor v0.47.0
-	github.com/google/dnsmasq_exporter v0.2.1-0.20230620100026-44b14480804a
+	github.com/brudrmusslos/dnsmasq_exporter_fix
 	github.com/google/go-cmp v0.6.0
 	github.com/google/pprof v0.0.0-20240727154555-813a5fbdbec8
 	github.com/google/renameio/v2 v2.0.0
